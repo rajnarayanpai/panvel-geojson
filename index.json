@@ -1,754 +1,754 @@
 [
   {
     "name": "Bambavi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bambavi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bambavi.json"
   },
   {
     "name": "Sarsai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sarsai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sarsai.json"
   },
   {
     "name": "Dhongadyacha Pada",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhongadyacha Pada.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dhongadyacha Pada.json"
   },
   {
     "name": "Borle",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Borle.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Borle.json"
   },
   {
     "name": "Ajivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ajivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ajivali.json"
   },
   {
     "name": "Deharang",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Deharang.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Deharang.json"
   },
   {
     "name": "Maldunge",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Maldunge.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Maldunge.json"
   },
   {
     "name": "Nerepada",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nerepada.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nerepada.json"
   },
   {
     "name": "Chal",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chal.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chal.json"
   },
   {
     "name": "Owe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Owe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Owe.json"
   },
   {
     "name": "Adivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Adivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Adivali.json"
   },
   {
     "name": "Kalamboli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalamboli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kalamboli.json"
   },
   {
     "name": "Nitalas",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nitalas.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nitalas.json"
   },
   {
     "name": "Bhokarpada (Chipale)",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhokarpada (Chipale).json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bhokarpada (Chipale).json"
   },
   {
     "name": "Ashte",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ashte.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ashte.json"
   },
   {
     "name": "Posari",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Posari.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Posari.json"
   },
   {
     "name": "Ambe tarf taloje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambe tarf taloje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ambe tarf taloje.json"
   },
   {
     "name": "Tondare",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tondare.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Tondare.json"
   },
   {
     "name": "Sangade",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangade.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sangade.json"
   },
   {
     "name": "Gulsunde",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gulsunde.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Gulsunde.json"
   },
   {
     "name": "Dapoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dapoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dapoli.json"
   },
   {
     "name": "Wangani Tarf Waje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wangani Tarf Waje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Wangani Tarf Waje.json"
   },
   {
     "name": "Owle",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Owle.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Owle.json"
   },
   {
     "name": "Ghot",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ghot.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ghot.json"
   },
   {
     "name": "Mahalungi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mahalungi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Mahalungi.json"
   },
   {
     "name": "Wardoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wardoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Wardoli.json"
   },
   {
     "name": "Waghachi Wadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Waghachi Wadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Waghachi Wadi.json"
   },
   {
     "name": "Kalundre (CT)",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalundre (CT).json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kalundre (CT).json"
   },
   {
     "name": "Savane",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Savane.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Savane.json"
   },
   {
     "name": "Dharnagaon",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dharnagaon.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dharnagaon.json"
   },
   {
     "name": "Chinchavali Tarf Taloje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavali Tarf Taloje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chinchavali Tarf Taloje.json"
   },
   {
     "name": "Vihighar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vihighar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vihighar.json"
   },
   {
     "name": "Derawali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Derawali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Derawali.json"
   },
   {
     "name": "Asudgoan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Asudgoan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Asudgoan.json"
   },
   {
     "name": "Waje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Waje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Waje.json"
   },
   {
     "name": "Khanav",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khanav.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Khanav.json"
   },
   {
     "name": "Loniwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Loniwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Loniwadi.json"
   },
   {
     "name": "Kolkhe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kolkhe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kolkhe.json"
   },
   {
     "name": "Ambivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ambivali.json"
   },
   {
     "name": "Wangani Tarf Taloje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wangani Tarf Taloje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Wangani Tarf Taloje.json"
   },
   {
     "name": "Bhingar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhingar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bhingar.json"
   },
   {
     "name": "Somtane",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Somtane.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Somtane.json"
   },
   {
     "name": "Poyanje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Poyanje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Poyanje.json"
   },
   {
     "name": "Kopar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kopar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kopar.json"
   },
   {
     "name": "Moho",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Moho.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Moho.json"
   },
   {
     "name": "Turade",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turade.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Turade.json"
   },
   {
     "name": "Morbe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Morbe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Morbe.json"
   },
   {
     "name": "Kherane Khurd",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kherane Khurd.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kherane Khurd.json"
   },
   {
     "name": "Jatade",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Jatade.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Jatade.json"
   },
   {
     "name": "Kondap",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kondap.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kondap.json"
   },
   {
     "name": "Karavale Bk.",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karavale Bk..json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karavale Bk..json"
   },
   {
     "name": "Machiprabal",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Machiprabal.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Machiprabal.json"
   },
   {
     "name": "Mosare",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mosare.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Mosare.json"
   },
   {
     "name": "Giravale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Giravale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Giravale.json"
   },
   {
     "name": "Nevali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nevali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nevali.json"
   },
   {
     "name": "Rohinjan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Rohinjan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Rohinjan.json"
   },
   {
     "name": "Nagzari",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nagzari.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nagzari.json"
   },
   {
     "name": "Kundevahal",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kundevahal.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kundevahal.json"
   },
   {
     "name": "Nere",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nere.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nere.json"
   },
   {
     "name": "Vaghivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vaghivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vaghivali.json"
   },
   {
     "name": "Sangatoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangatoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sangatoli.json"
   },
   {
     "name": "Turmale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turmale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Turmale.json"
   },
   {
     "name": "Pale Budruk",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pale Budruk.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pale Budruk.json"
   },
   {
     "name": "Karade Bk",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karade Bk.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karade Bk.json"
   },
   {
     "name": "Padeghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Padeghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Padeghar.json"
   },
   {
     "name": "Ambe tarf waje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambe tarf waje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ambe tarf waje.json"
   },
   {
     "name": "Akulwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Akulwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Akulwadi.json"
   },
   {
     "name": "Koproli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koproli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Koproli.json"
   },
   {
     "name": "Mohope",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mohope.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Mohope.json"
   },
   {
     "name": "Belavali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Belavali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Belavali.json"
   },
   {
     "name": "Umroli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Umroli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Umroli.json"
   },
   {
     "name": "Bhingarwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhingarwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bhingarwadi.json"
   },
   {
     "name": "Walavali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Walavali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Walavali.json"
   },
   {
     "name": "Karade Khurd",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karade Khurd.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karade Khurd.json"
   },
   {
     "name": "Targhar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Targhar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Targhar.json"
   },
   {
     "name": "Shiravali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shiravali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shiravali.json"
   },
   {
     "name": "Cheravali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Cheravali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Cheravali.json"
   },
   {
     "name": "Nhave",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nhave.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nhave.json"
   },
   {
     "name": "Hedutane",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Hedutane.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Hedutane.json"
   },
   {
     "name": "Pendhar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pendhar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pendhar.json"
   },
   {
     "name": "Kondale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kondale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kondale.json"
   },
   {
     "name": "Navade",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Navade.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Navade.json"
   },
   {
     "name": "Nandgaon",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nandgaon.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nandgaon.json"
   },
   {
     "name": "Ulawe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ulawe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ulawe.json"
   },
   {
     "name": "Barapada",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Barapada.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Barapada.json"
   },
   {
     "name": "Kudave",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kudave.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kudave.json"
   },
   {
     "name": "Kon",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kon.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kon.json"
   },
   {
     "name": "Kelavane",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kelavane.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kelavane.json"
   },
   {
     "name": "Panvel",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Panvel.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Panvel.json"
   },
   {
     "name": "Jambhivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Jambhivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Jambhivali.json"
   },
   {
     "name": "Devloli Bk",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devloli Bk.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Devloli Bk.json"
   },
   {
     "name": "Manghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Manghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Manghar.json"
   },
   {
     "name": "Shilottar Raichur",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shilottar Raichur.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shilottar Raichur.json"
   },
   {
     "name": "Dundarai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dundarai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dundarai.json"
   },
   {
     "name": "Koral",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koral.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Koral.json"
   },
   {
     "name": "Rodpali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Rodpali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Rodpali.json"
   },
   {
     "name": "Vakadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vakadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vakadi.json"
   },
   {
     "name": "Pali Bk",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pali Bk.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pali Bk.json"
   },
   {
     "name": "Sangurli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangurli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sangurli.json"
   },
   {
     "name": "Padghe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Padghe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Padghe.json"
   },
   {
     "name": "Palidevad (CT)",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palidevad (CT).json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Palidevad (CT).json"
   },
   {
     "name": "Kasal Khand",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasal Khand.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kasal Khand.json"
   },
   {
     "name": "Turbhe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turbhe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Turbhe.json"
   },
   {
     "name": "Dolghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dolghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dolghar.json"
   },
   {
     "name": "Kolwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kolwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kolwadi.json"
   },
   {
     "name": "Devad",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devad.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Devad.json"
   },
   {
     "name": "Kharkopar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kharkopar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kharkopar.json"
   },
   {
     "name": "Chipale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chipale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chipale.json"
   },
   {
     "name": "Tembhode",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tembhode.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Tembhode.json"
   },
   {
     "name": "Poyanje Katkarwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Poyanje Katkarwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Poyanje Katkarwadi.json"
   },
   {
     "name": "Sai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sai.json"
   },
   {
     "name": "Chawane",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chawane.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chawane.json"
   },
   {
     "name": "Kharghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kharghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kharghar.json"
   },
   {
     "name": "Vadavali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vadavali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vadavali.json"
   },
   {
     "name": "Kalhe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalhe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kalhe.json"
   },
   {
     "name": "Barwai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Barwai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Barwai.json"
   },
   {
     "name": "Chinchavan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chinchavan.json"
   },
   {
     "name": "Karnala",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karnala.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karnala.json"
   },
   {
     "name": "Devichapada",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devichapada.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Devichapada.json"
   },
   {
     "name": "Vaveghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vaveghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vaveghar.json"
   },
   {
     "name": "Bhokarpada",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhokarpada.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bhokarpada.json"
   },
   {
     "name": "Nanoshi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nanoshi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nanoshi.json"
   },
   {
     "name": "Shivkar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shivkar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shivkar.json"
   },
   {
     "name": "Pisarve",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pisarve.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pisarve.json"
   },
   {
     "name": "Savale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Savale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Savale.json"
   },
   {
     "name": "Khairwadi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khairwadi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Khairwadi.json"
   },
   {
     "name": "Vadghar (CT)",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vadghar (CT).json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vadghar (CT).json"
   },
   {
     "name": "Kevale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kevale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kevale.json"
   },
   {
     "name": "Karambeli Tarf Taloje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karambeli Tarf Taloje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karambeli Tarf Taloje.json"
   },
   {
     "name": "Palaspe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palaspe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Palaspe.json"
   },
   {
     "name": "Valap",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Valap.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Valap.json"
   },
   {
     "name": "Shivansai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shivansai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shivansai.json"
   },
   {
     "name": "Chikhale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chikhale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chikhale.json"
   },
   {
     "name": "Koyana Velhe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koyana Velhe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Koyana Velhe.json"
   },
   {
     "name": "Kasar Bhat",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasar Bhat.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kasar Bhat.json"
   },
   {
     "name": "Ladiwali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ladiwali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ladiwali.json"
   },
   {
     "name": "Kasap",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasap.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kasap.json"
   },
   {
     "name": "Pargaon Dungi",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pargaon Dungi.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pargaon Dungi.json"
   },
   {
     "name": "Mahodar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mahodar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Mahodar.json"
   },
   {
     "name": "Adai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Adai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Adai.json"
   },
   {
     "name": "Chirvat",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chirvat.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chirvat.json"
   },
   {
     "name": "Patnoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Patnoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Patnoli.json"
   },
   {
     "name": "Usarli Kh",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Usarli Kh.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Usarli Kh.json"
   },
   {
     "name": "Dapiwali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dapiwali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dapiwali.json"
   },
   {
     "name": "Shirdhon",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shirdhon.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shirdhon.json"
   },
   {
     "name": "Shedung",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shedung.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Shedung.json"
   },
   {
     "name": "Taloje Majkur",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Taloje Majkur.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Taloje Majkur.json"
   },
   {
     "name": "Bhatan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhatan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bhatan.json"
   },
   {
     "name": "Dhodani",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhodani.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dhodani.json"
   },
   {
     "name": "Khanavale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khanavale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Khanavale.json"
   },
   {
     "name": "Kamothe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kamothe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kamothe.json"
   },
   {
     "name": "Apte",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Apte.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Apte.json"
   },
   {
     "name": "CREEK",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/CREEK.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/CREEK.json"
   },
   {
     "name": "Dighati",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dighati.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dighati.json"
   },
   {
     "name": "Narpoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Narpoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Narpoli.json"
   },
   {
     "name": "Harigram",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Harigram.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Harigram.json"
   },
   {
     "name": "Wajapur",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wajapur.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Wajapur.json"
   },
   {
     "name": "Gavhan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gavhan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Gavhan.json"
   },
   {
     "name": "Bherle",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bherle.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bherle.json"
   },
   {
     "name": "Dahivali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dahivali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dahivali.json"
   },
   {
     "name": "Madbhuvan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Madbhuvan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Madbhuvan.json"
   },
   {
     "name": "Kaliwali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kaliwali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kaliwali.json"
   },
   {
     "name": "Vavanje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vavanje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vavanje.json"
   },
   {
     "name": "Wahal",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wahal.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Wahal.json"
   },
   {
     "name": "Vichumbe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vichumbe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Vichumbe.json"
   },
   {
     "name": "Chindharan",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chindharan.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chindharan.json"
   },
   {
     "name": "Dhamani",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhamani.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dhamani.json"
   },
   {
     "name": "Dhansar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhansar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dhansar.json"
   },
   {
     "name": "Ritghar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ritghar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ritghar.json"
   },
   {
     "name": "Pali Kh",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pali Kh.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pali Kh.json"
   },
   {
     "name": "Taloje Panchnad",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Taloje Panchnad.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Taloje Panchnad.json"
   },
   {
     "name": "Dundre",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dundre.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dundre.json"
   },
   {
     "name": "Usarli Bk.",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Usarli Bk..json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Usarli Bk..json"
   },
   {
     "name": "Pargaon",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pargaon.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Pargaon.json"
   },
   {
     "name": "Nitale",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nitale.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Nitale.json"
   },
   {
     "name": "Akurli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Akurli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Akurli.json"
   },
   {
     "name": "Gadhe",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gadhe.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Gadhe.json"
   },
   {
     "name": "Karanjade",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karanjade.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Karanjade.json"
   },
   {
     "name": "Gherakilla Manikgad",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gherakilla Manikgad.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Gherakilla Manikgad.json"
   },
   {
     "name": "Kanpoli",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kanpoli.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Kanpoli.json"
   },
   {
     "name": "Dharnacamp",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dharnacamp.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Dharnacamp.json"
   },
   {
     "name": "Bonshet",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bonshet.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bonshet.json"
   },
   {
     "name": "Chinchavali Tarf Waje",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavali Tarf Waje.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Chinchavali Tarf Waje.json"
   },
   {
     "name": "Palekhurd",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palekhurd.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Palekhurd.json"
   },
   {
     "name": "Tamsai",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tamsai.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Tamsai.json"
   },
   {
     "name": "Sonkhar",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sonkhar.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Sonkhar.json"
   },
   {
     "name": "Bid",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bid.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Bid.json"
   },
   {
     "name": "Ariwali",
-    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ariwali.json"
+    "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/chunks/Ariwali.json"
   }
 ]
