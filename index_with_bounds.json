@@ -2,6 +2,7 @@
   {
     "name": "Bambavi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bambavi.json",
+    "file": "Bambavi.json",
     "minLat": 18.95524071968518,
     "maxLat": 18.980074884014844,
     "minLng": 73.04394874170687,
@@ -10,6 +11,7 @@
   {
     "name": "Sarsai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sarsai.json",
+    "file": "Sarsai.json",
     "minLat": 18.836960489115782,
     "maxLat": 18.854972179281244,
     "minLng": 73.12640809913667,
@@ -18,6 +20,7 @@
   {
     "name": "Dhongadyacha Pada",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhongadyacha Pada.json",
+    "file": "Dhongadyacha Pada.json",
     "minLat": 19.071312995372672,
     "maxLat": 19.084944887474904,
     "minLng": 73.13226242064019,
@@ -26,6 +29,7 @@
   {
     "name": "Borle",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Borle.json",
+    "file": "Borle.json",
     "minLat": 18.9605823826862,
     "maxLat": 18.970254948066138,
     "minLng": 73.15328378459775,
@@ -34,6 +38,7 @@
   {
     "name": "Ajivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ajivali.json",
+    "file": "Ajivali.json",
     "minLat": 18.94561522144947,
     "maxLat": 18.962978030787955,
     "minLng": 73.15972925751016,
@@ -42,6 +47,7 @@
   {
     "name": "Deharang",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Deharang.json",
+    "file": "Deharang.json",
     "minLat": 19.003213829077655,
     "maxLat": 19.030465141059448,
     "minLng": 73.22264140894683,
@@ -50,6 +56,7 @@
   {
     "name": "Maldunge",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Maldunge.json",
+    "file": "Maldunge.json",
     "minLat": 18.99509456755601,
     "maxLat": 19.066079988465805,
     "minLng": 73.22933668245469,
@@ -58,6 +65,7 @@
   {
     "name": "Nerepada",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nerepada.json",
+    "file": "Nerepada.json",
     "minLat": 19.009480235056927,
     "maxLat": 19.023014991316412,
     "minLng": 73.15631548671212,
@@ -66,6 +74,7 @@
   {
     "name": "Chal",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chal.json",
+    "file": "Chal.json",
     "minLat": 19.083906166092174,
     "maxLat": 19.103807736575813,
     "minLng": 73.10949069493854,
@@ -74,6 +83,7 @@
   {
     "name": "Owe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Owe.json",
+    "file": "Owe.json",
     "minLat": 19.046479685849718,
     "maxLat": 19.08755790883184,
     "minLng": 73.04377788671127,
@@ -82,6 +92,7 @@
   {
     "name": "Adivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Adivali.json",
+    "file": "Adivali.json",
     "minLat": 19.08698033821199,
     "maxLat": 19.110251271913828,
     "minLng": 73.04743802579844,
@@ -90,6 +101,7 @@
   {
     "name": "Kalamboli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalamboli.json",
+    "file": "Kalamboli.json",
     "minLat": 19.010936123019597,
     "maxLat": 19.03153002899605,
     "minLng": 73.09895319899744,
@@ -98,6 +110,7 @@
   {
     "name": "Nitalas",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nitalas.json",
+    "file": "Nitalas.json",
     "minLat": 19.09436811482474,
     "maxLat": 19.11908279509487,
     "minLng": 73.12938534765239,
@@ -106,6 +119,7 @@
   {
     "name": "Bhokarpada (Chipale)",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhokarpada (Chipale).json",
+    "file": "Bhokarpada (Chipale).json",
     "minLat": 18.99453883204321,
     "maxLat": 19.00302189422242,
     "minLng": 73.14122305009344,
@@ -114,6 +128,7 @@
   {
     "name": "Ashte",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ashte.json",
+    "file": "Ashte.json",
     "minLat": 18.942264282279957,
     "maxLat": 18.95131218940373,
     "minLng": 73.1471243283784,
@@ -122,6 +137,7 @@
   {
     "name": "Posari",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Posari.json",
+    "file": "Posari.json",
     "minLat": 18.891800941168306,
     "maxLat": 18.90458588311903,
     "minLng": 73.1270975919049,
@@ -130,6 +146,7 @@
   {
     "name": "Ambe tarf taloje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambe tarf taloje.json",
+    "file": "Ambe tarf taloje.json",
     "minLat": 19.07057259986608,
     "maxLat": 19.078128412209765,
     "minLng": 73.17396255950301,
@@ -138,6 +155,7 @@
   {
     "name": "Tondare",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tondare.json",
+    "file": "Tondare.json",
     "minLat": 19.062070297214124,
     "maxLat": 19.08707682185992,
     "minLng": 73.11991736728703,
@@ -146,6 +164,7 @@
   {
     "name": "Sangade",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangade.json",
+    "file": "Sangade.json",
     "minLat": 18.960873229488634,
     "maxLat": 18.97152454451743,
     "minLng": 73.16277748667194,
@@ -154,6 +173,7 @@
   {
     "name": "Gulsunde",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gulsunde.json",
+    "file": "Gulsunde.json",
     "minLat": 18.86560267106991,
     "maxLat": 18.886998370013785,
     "minLng": 73.143146707577,
@@ -162,6 +182,7 @@
   {
     "name": "Dapoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dapoli.json",
+    "file": "Dapoli.json",
     "minLat": 18.962838691784942,
     "maxLat": 18.98217614944259,
     "minLng": 73.0658028272578,
@@ -170,6 +191,7 @@
   {
     "name": "Wangani Tarf Waje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wangani Tarf Waje.json",
+    "file": "Wangani Tarf Waje.json",
     "minLat": 18.989358563832656,
     "maxLat": 19.005212346632376,
     "minLng": 73.1727009426162,
@@ -178,6 +200,7 @@
   {
     "name": "Owle",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Owle.json",
+    "file": "Owle.json",
     "minLat": 18.967336598787544,
     "maxLat": 19.00203563982957,
     "minLng": 73.04596598196899,
@@ -186,6 +209,7 @@
   {
     "name": "Ghot",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ghot.json",
+    "file": "Ghot.json",
     "minLat": 19.081918076395414,
     "maxLat": 19.092690539216633,
     "minLng": 73.10570713277772,
@@ -194,6 +218,7 @@
   {
     "name": "Mahalungi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mahalungi.json",
+    "file": "Mahalungi.json",
     "minLat": 19.056320946328448,
     "maxLat": 19.07334346307833,
     "minLng": 73.16263498613125,
@@ -202,6 +227,7 @@
   {
     "name": "Wardoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wardoli.json",
+    "file": "Wardoli.json",
     "minLat": 18.956239988319183,
     "maxLat": 18.978821736546028,
     "minLng": 73.18479969700945,
@@ -210,6 +236,7 @@
   {
     "name": "Waghachi Wadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Waghachi Wadi.json",
+    "file": "Waghachi Wadi.json",
     "minLat": 19.01009679366645,
     "maxLat": 19.028446615400973,
     "minLng": 73.23874700008977,
@@ -218,6 +245,7 @@
   {
     "name": "Kalundre (CT)",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalundre (CT).json",
+    "file": "Kalundre (CT).json",
     "minLat": 18.968321553513764,
     "maxLat": 18.98562854782581,
     "minLng": 73.11222555122036,
@@ -226,6 +254,7 @@
   {
     "name": "Savane",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Savane.json",
+    "file": "Savane.json",
     "minLat": 18.821550679964027,
     "maxLat": 18.852211052863076,
     "minLng": 73.15501370016366,
@@ -234,6 +263,7 @@
   {
     "name": "Dharnagaon",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dharnagaon.json",
+    "file": "Dharnagaon.json",
     "minLat": 19.09330799336435,
     "maxLat": 19.102878009150547,
     "minLng": 73.07078827128696,
@@ -242,6 +272,7 @@
   {
     "name": "Chinchavali Tarf Taloje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavali Tarf Taloje.json",
+    "file": "Chinchavali Tarf Taloje.json",
     "minLat": 19.07170506475762,
     "maxLat": 19.085649031680692,
     "minLng": 73.16608892242601,
@@ -250,6 +281,7 @@
   {
     "name": "Vihighar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vihighar.json",
+    "file": "Vihighar.json",
     "minLat": 18.994690682566375,
     "maxLat": 19.007833463850552,
     "minLng": 73.15494817343635,
@@ -258,6 +290,7 @@
   {
     "name": "Derawali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Derawali.json",
+    "file": "Derawali.json",
     "minLat": 18.94908081910465,
     "maxLat": 18.96338636848691,
     "minLng": 73.13490547090322,
@@ -266,6 +299,7 @@
   {
     "name": "Asudgoan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Asudgoan.json",
+    "file": "Asudgoan.json",
     "minLat": 19.003978816708457,
     "maxLat": 19.024031729445884,
     "minLng": 73.10929261477266,
@@ -274,6 +308,7 @@
   {
     "name": "Waje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Waje.json",
+    "file": "Waje.json",
     "minLat": 19.004745149450933,
     "maxLat": 19.03024992888598,
     "minLng": 73.19062755775683,
@@ -282,6 +317,7 @@
   {
     "name": "Khanav",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khanav.json",
+    "file": "Khanav.json",
     "minLat": 19.034235602680152,
     "maxLat": 19.056324290298324,
     "minLng": 73.15580960271704,
@@ -290,6 +326,7 @@
   {
     "name": "Loniwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Loniwadi.json",
+    "file": "Loniwadi.json",
     "minLat": 18.972245932186674,
     "maxLat": 18.997515003229672,
     "minLng": 73.1800609389348,
@@ -298,6 +335,7 @@
   {
     "name": "Kolkhe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kolkhe.json",
+    "file": "Kolkhe.json",
     "minLat": 18.96134962159961,
     "maxLat": 18.97462336759616,
     "minLng": 73.12212690702522,
@@ -306,6 +344,7 @@
   {
     "name": "Ambivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambivali.json",
+    "file": "Ambivali.json",
     "minLat": 18.99521141912052,
     "maxLat": 19.005489069630364,
     "minLng": 73.17025752448185,
@@ -314,6 +353,7 @@
   {
     "name": "Wangani Tarf Taloje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wangani Tarf Taloje.json",
+    "file": "Wangani Tarf Taloje.json",
     "minLat": 19.085352708286422,
     "maxLat": 19.116739356073197,
     "minLng": 73.18495787482507,
@@ -322,6 +362,7 @@
   {
     "name": "Bhingar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhingar.json",
+    "file": "Bhingar.json",
     "minLat": 18.951466526910544,
     "maxLat": 18.96287099656025,
     "minLng": 73.171203499942,
@@ -330,6 +371,7 @@
   {
     "name": "Somtane",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Somtane.json",
+    "file": "Somtane.json",
     "minLat": 18.928743032269686,
     "maxLat": 18.948205341114498,
     "minLng": 73.1412703873826,
@@ -338,6 +380,7 @@
   {
     "name": "Poyanje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Poyanje.json",
+    "file": "Poyanje.json",
     "minLat": 18.93105234247449,
     "maxLat": 18.94577483801026,
     "minLng": 73.18859204079493,
@@ -346,6 +389,7 @@
   {
     "name": "Kopar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kopar.json",
+    "file": "Kopar.json",
     "minLat": 18.980004846365194,
     "maxLat": 19.007127183038374,
     "minLng": 73.0690666433643,
@@ -354,6 +398,7 @@
   {
     "name": "Moho",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Moho.json",
+    "file": "Moho.json",
     "minLat": 18.981290653928603,
     "maxLat": 19.000075754101136,
     "minLng": 73.1549950831711,
@@ -362,6 +407,7 @@
   {
     "name": "Turade",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turade.json",
+    "file": "Turade.json",
     "minLat": 18.882636732719433,
     "maxLat": 18.897316813766746,
     "minLng": 73.12523596413278,
@@ -370,6 +416,7 @@
   {
     "name": "Morbe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Morbe.json",
+    "file": "Morbe.json",
     "minLat": 19.04529406513954,
     "maxLat": 19.07874027389955,
     "minLng": 73.16757217171359,
@@ -378,6 +425,7 @@
   {
     "name": "Kherane Khurd",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kherane Khurd.json",
+    "file": "Kherane Khurd.json",
     "minLat": 19.010582340977997,
     "maxLat": 19.098971662481418,
     "minLng": 73.07655929609452,
@@ -386,6 +434,7 @@
   {
     "name": "Jatade",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Jatade.json",
+    "file": "Jatade.json",
     "minLat": 18.904507299796393,
     "maxLat": 18.919019142357406,
     "minLng": 73.16058506804863,
@@ -394,6 +443,7 @@
   {
     "name": "Kondap",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kondap.json",
+    "file": "Kondap.json",
     "minLat": 19.085465928354996,
     "maxLat": 19.127282886831804,
     "minLng": 73.1771210337541,
@@ -402,6 +452,7 @@
   {
     "name": "Karavale Bk.",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karavale Bk..json",
+    "file": "Karavale Bk..json",
     "minLat": 19.09176597133267,
     "maxLat": 19.110589508635815,
     "minLng": 73.0994965180288,
@@ -410,6 +461,7 @@
   {
     "name": "Machiprabal",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Machiprabal.json",
+    "file": "Machiprabal.json",
     "minLat": 18.957402034898976,
     "maxLat": 18.983766094080547,
     "minLng": 73.2127714856566,
@@ -418,6 +470,7 @@
   {
     "name": "Mosare",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mosare.json",
+    "file": "Mosare.json",
     "minLat": 18.92910938054992,
     "maxLat": 18.965944194949003,
     "minLng": 73.0618277553992,
@@ -426,6 +479,7 @@
   {
     "name": "Giravale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Giravale.json",
+    "file": "Giravale.json",
     "minLat": 18.935439135160774,
     "maxLat": 18.95012412136785,
     "minLng": 73.13407948281812,
@@ -434,6 +488,7 @@
   {
     "name": "Nevali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nevali.json",
+    "file": "Nevali.json",
     "minLat": 19.014373655022066,
     "maxLat": 19.024495317490427,
     "minLng": 73.12231152491783,
@@ -442,6 +497,7 @@
   {
     "name": "Rohinjan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Rohinjan.json",
+    "file": "Rohinjan.json",
     "minLat": 19.078397269038575,
     "maxLat": 19.094962699048835,
     "minLng": 73.07223083162799,
@@ -450,6 +506,7 @@
   {
     "name": "Nagzari",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nagzari.json",
+    "file": "Nagzari.json",
     "minLat": 19.102922029407345,
     "maxLat": 19.110062398050612,
     "minLng": 73.11435063450881,
@@ -458,6 +515,7 @@
   {
     "name": "Kundevahal",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kundevahal.json",
+    "file": "Kundevahal.json",
     "minLat": 18.938979310450307,
     "maxLat": 18.97275020303854,
     "minLng": 73.05123032238106,
@@ -466,6 +524,7 @@
   {
     "name": "Nere",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nere.json",
+    "file": "Nere.json",
     "minLat": 19.004588616130977,
     "maxLat": 19.022804731077592,
     "minLng": 73.16090705080798,
@@ -474,6 +533,7 @@
   {
     "name": "Vaghivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vaghivali.json",
+    "file": "Vaghivali.json",
     "minLat": 18.996107920116625,
     "maxLat": 19.018933257745932,
     "minLng": 73.04372287854385,
@@ -482,6 +542,7 @@
   {
     "name": "Sangatoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangatoli.json",
+    "file": "Sangatoli.json",
     "minLat": 19.001548193068324,
     "maxLat": 19.01491259595503,
     "minLng": 73.18182728141282,
@@ -490,6 +551,7 @@
   {
     "name": "Turmale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turmale.json",
+    "file": "Turmale.json",
     "minLat": 18.935828802421025,
     "maxLat": 18.953925295197106,
     "minLng": 73.10441926889882,
@@ -498,6 +560,7 @@
   {
     "name": "Pale Budruk",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pale Budruk.json",
+    "file": "Pale Budruk.json",
     "minLat": 19.030384031715663,
     "maxLat": 19.059069701308648,
     "minLng": 73.1198442407697,
@@ -506,6 +569,7 @@
   {
     "name": "Karade Bk",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karade Bk.json",
+    "file": "Karade Bk.json",
     "minLat": 18.862149323241994,
     "maxLat": 18.880116701867422,
     "minLng": 73.16401287561474,
@@ -514,6 +578,7 @@
   {
     "name": "Padeghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Padeghar.json",
+    "file": "Padeghar.json",
     "minLat": 18.94482029939636,
     "maxLat": 18.971391776440107,
     "minLng": 73.03971969129391,
@@ -522,6 +587,7 @@
   {
     "name": "Ambe tarf waje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ambe tarf waje.json",
+    "file": "Ambe tarf waje.json",
     "minLat": 19.03012630213555,
     "maxLat": 19.038512708766156,
     "minLng": 73.21095382130463,
@@ -530,6 +596,7 @@
   {
     "name": "Akulwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Akulwadi.json",
+    "file": "Akulwadi.json",
     "minLat": 18.865445014267017,
     "maxLat": 18.891315141444178,
     "minLng": 73.1281825597168,
@@ -538,6 +605,7 @@
   {
     "name": "Koproli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koproli.json",
+    "file": "Koproli.json",
     "minLat": 19.005611201616066,
     "maxLat": 19.01583691243967,
     "minLng": 73.14981379285945,
@@ -546,6 +614,7 @@
   {
     "name": "Mohope",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mohope.json",
+    "file": "Mohope.json",
     "minLat": 18.94179729372476,
     "maxLat": 18.959517524892366,
     "minLng": 73.185979982359,
@@ -554,6 +623,7 @@
   {
     "name": "Belavali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Belavali.json",
+    "file": "Belavali.json",
     "minLat": 18.965296579346717,
     "maxLat": 18.9797514308776,
     "minLng": 73.16748867004675,
@@ -562,6 +632,7 @@
   {
     "name": "Umroli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Umroli.json",
+    "file": "Umroli.json",
     "minLat": 19.02068036337528,
     "maxLat": 19.03283377676271,
     "minLng": 73.17790587942748,
@@ -570,6 +641,7 @@
   {
     "name": "Bhingarwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhingarwadi.json",
+    "file": "Bhingarwadi.json",
     "minLat": 18.942679607602628,
     "maxLat": 18.95366538422179,
     "minLng": 73.17784480806952,
@@ -578,6 +650,7 @@
   {
     "name": "Walavali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Walavali.json",
+    "file": "Walavali.json",
     "minLat": 19.026862077752458,
     "maxLat": 19.041382149783423,
     "minLng": 73.11403194140522,
@@ -586,6 +659,7 @@
   {
     "name": "Karade Khurd",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karade Khurd.json",
+    "file": "Karade Khurd.json",
     "minLat": 18.871422634150424,
     "maxLat": 18.890003700655136,
     "minLng": 73.15737313972083,
@@ -594,6 +668,7 @@
   {
     "name": "Targhar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Targhar.json",
+    "file": "Targhar.json",
     "minLat": 18.98525265576202,
     "maxLat": 19.007128220844717,
     "minLng": 73.02534903815814,
@@ -602,6 +677,7 @@
   {
     "name": "Shiravali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shiravali.json",
+    "file": "Shiravali.json",
     "minLat": 19.075403396427113,
     "maxLat": 19.08827042888154,
     "minLng": 73.17690358739542,
@@ -610,6 +686,7 @@
   {
     "name": "Cheravali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Cheravali.json",
+    "file": "Cheravali.json",
     "minLat": 18.995727968704912,
     "maxLat": 19.012311767017966,
     "minLng": 73.19307016425863,
@@ -618,6 +695,7 @@
   {
     "name": "Nhave",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nhave.json",
+    "file": "Nhave.json",
     "minLat": 18.947282294730055,
     "maxLat": 18.97402311541697,
     "minLng": 72.95352972225854,
@@ -626,6 +704,7 @@
   {
     "name": "Hedutane",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Hedutane.json",
+    "file": "Hedutane.json",
     "minLat": 19.03758794826921,
     "maxLat": 19.063908990713603,
     "minLng": 73.13538237611158,
@@ -634,6 +713,7 @@
   {
     "name": "Pendhar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pendhar.json",
+    "file": "Pendhar.json",
     "minLat": 19.052958682271917,
     "maxLat": 19.077096032515808,
     "minLng": 73.0885325511207,
@@ -642,6 +722,7 @@
   {
     "name": "Kondale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kondale.json",
+    "file": "Kondale.json",
     "minLat": 19.054635764831275,
     "maxLat": 19.068538133164925,
     "minLng": 73.18693256181948,
@@ -650,6 +731,7 @@
   {
     "name": "Navade",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Navade.json",
+    "file": "Navade.json",
     "minLat": 19.04454725162263,
     "maxLat": 19.06214386553814,
     "minLng": 73.09391628798541,
@@ -658,6 +740,7 @@
   {
     "name": "Nandgaon",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nandgaon.json",
+    "file": "Nandgaon.json",
     "minLat": 18.952379509045173,
     "maxLat": 18.969724958124626,
     "minLng": 73.10269273760295,
@@ -666,6 +749,7 @@
   {
     "name": "Ulawe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ulawe.json",
+    "file": "Ulawe.json",
     "minLat": 18.97197806186308,
     "maxLat": 19.004834299864825,
     "minLng": 73.03219028270675,
@@ -674,6 +758,7 @@
   {
     "name": "Barapada",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Barapada.json",
+    "file": "Barapada.json",
     "minLat": 18.849145719660726,
     "maxLat": 18.87362883086685,
     "minLng": 73.07291748351287,
@@ -682,6 +767,7 @@
   {
     "name": "Kudave",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kudave.json",
+    "file": "Kudave.json",
     "minLat": 18.95171520950895,
     "maxLat": 18.964857105098357,
     "minLng": 73.12006652589734,
@@ -690,6 +776,7 @@
   {
     "name": "Kon",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kon.json",
+    "file": "Kon.json",
     "minLat": 18.95067151355883,
     "maxLat": 18.968733770841627,
     "minLng": 73.1446530678786,
@@ -698,6 +785,7 @@
   {
     "name": "Kelavane",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kelavane.json",
+    "file": "Kelavane.json",
     "minLat": 18.811279203492845,
     "maxLat": 18.84216336675342,
     "minLng": 73.04030559082759,
@@ -706,6 +794,7 @@
   {
     "name": "Panvel",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Panvel.json",
+    "file": "Panvel.json",
     "minLat": 18.97607431467073,
     "maxLat": 19.012673485494787,
     "minLng": 73.08266274395602,
@@ -714,6 +803,7 @@
   {
     "name": "Jambhivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Jambhivali.json",
+    "file": "Jambhivali.json",
     "minLat": 18.831985158318997,
     "maxLat": 18.864033864092598,
     "minLng": 73.16629876432366,
@@ -722,6 +812,7 @@
   {
     "name": "Devloli Bk",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devloli Bk.json",
+    "file": "Devloli Bk.json",
     "minLat": 18.899137184155947,
     "maxLat": 18.91818983229144,
     "minLng": 73.13925586150829,
@@ -730,6 +821,7 @@
   {
     "name": "Manghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Manghar.json",
+    "file": "Manghar.json",
     "minLat": 18.93530123747626,
     "maxLat": 18.96460494658811,
     "minLng": 73.05750713234404,
@@ -738,6 +830,7 @@
   {
     "name": "Shilottar Raichur",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shilottar Raichur.json",
+    "file": "Shilottar Raichur.json",
     "minLat": 18.996679442253456,
     "maxLat": 19.003425215214115,
     "minLng": 73.13126923522853,
@@ -746,6 +839,7 @@
   {
     "name": "Dundarai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dundarai.json",
+    "file": "Dundarai.json",
     "minLat": 19.03330746183405,
     "maxLat": 19.0502068537872,
     "minLng": 73.19523671805203,
@@ -754,6 +848,7 @@
   {
     "name": "Koral",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koral.json",
+    "file": "Koral.json",
     "minLat": 18.853905331465164,
     "maxLat": 18.886285673146546,
     "minLng": 73.10524183926579,
@@ -762,6 +857,7 @@
   {
     "name": "Rodpali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Rodpali.json",
+    "file": "Rodpali.json",
     "minLat": 19.0170239824994,
     "maxLat": 19.045956481754796,
     "minLng": 73.06421613109497,
@@ -770,6 +866,7 @@
   {
     "name": "Vakadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vakadi.json",
+    "file": "Vakadi.json",
     "minLat": 19.019584088883814,
     "maxLat": 19.036693943564252,
     "minLng": 73.15740491425525,
@@ -778,6 +875,7 @@
   {
     "name": "Pali Bk",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pali Bk.json",
+    "file": "Pali Bk.json",
     "minLat": 18.919772774028527,
     "maxLat": 18.966529592674217,
     "minLng": 73.20232063736373,
@@ -786,6 +884,7 @@
   {
     "name": "Sangurli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sangurli.json",
+    "file": "Sangurli.json",
     "minLat": 18.91768146573171,
     "maxLat": 18.938205755590605,
     "minLng": 73.10007511342272,
@@ -794,6 +893,7 @@
   {
     "name": "Padghe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Padghe.json",
+    "file": "Padghe.json",
     "minLat": 19.040777678233987,
     "maxLat": 19.0684768076214,
     "minLng": 73.11558062660245,
@@ -802,6 +902,7 @@
   {
     "name": "Palidevad (CT)",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palidevad (CT).json",
+    "file": "Palidevad (CT).json",
     "minLat": 18.994434376804872,
     "maxLat": 19.002989122039875,
     "minLng": 73.12759239205171,
@@ -810,6 +911,7 @@
   {
     "name": "Kasal Khand",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasal Khand.json",
+    "file": "Kasal Khand.json",
     "minLat": 18.933794314074394,
     "maxLat": 18.945130884411057,
     "minLng": 73.14821840756693,
@@ -818,6 +920,7 @@
   {
     "name": "Turbhe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Turbhe.json",
+    "file": "Turbhe.json",
     "minLat": 19.10024942116791,
     "maxLat": 19.11435339572765,
     "minLng": 73.08857117672459,
@@ -826,6 +929,7 @@
   {
     "name": "Dolghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dolghar.json",
+    "file": "Dolghar.json",
     "minLat": 18.838935326793642,
     "maxLat": 18.867378287445046,
     "minLng": 73.06735188199698,
@@ -834,6 +938,7 @@
   {
     "name": "Kolwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kolwadi.json",
+    "file": "Kolwadi.json",
     "minLat": 19.034230160092918,
     "maxLat": 19.04803895210933,
     "minLng": 73.12182166510394,
@@ -842,6 +947,7 @@
   {
     "name": "Devad",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devad.json",
+    "file": "Devad.json",
     "minLat": 18.98994932255956,
     "maxLat": 18.997897692833988,
     "minLng": 73.12865340399563,
@@ -850,6 +956,7 @@
   {
     "name": "Kharkopar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kharkopar.json",
+    "file": "Kharkopar.json",
     "minLat": 18.960304319128458,
     "maxLat": 18.98020937604114,
     "minLng": 73.0170892830125,
@@ -858,6 +965,7 @@
   {
     "name": "Chipale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chipale.json",
+    "file": "Chipale.json",
     "minLat": 18.997676664791307,
     "maxLat": 19.007819979284566,
     "minLng": 73.14100572888178,
@@ -866,6 +974,7 @@
   {
     "name": "Tembhode",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tembhode.json",
+    "file": "Tembhode.json",
     "minLat": 19.01538094060447,
     "maxLat": 19.02973643390978,
     "minLng": 73.11346007686964,
@@ -874,6 +983,7 @@
   {
     "name": "Poyanje Katkarwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Poyanje Katkarwadi.json",
+    "file": "Poyanje Katkarwadi.json",
     "minLat": 18.93878963857569,
     "maxLat": 18.9581471120125,
     "minLng": 73.20080735599011,
@@ -882,6 +992,7 @@
   {
     "name": "Sai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sai.json",
+    "file": "Sai.json",
     "minLat": 18.81944656773597,
     "maxLat": 18.857348771165338,
     "minLng": 73.05594727731089,
@@ -890,6 +1001,7 @@
   {
     "name": "Chawane",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chawane.json",
+    "file": "Chawane.json",
     "minLat": 18.82433316667493,
     "maxLat": 18.863842162930958,
     "minLng": 73.15021077654943,
@@ -898,6 +1010,7 @@
   {
     "name": "Kharghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kharghar.json",
+    "file": "Kharghar.json",
     "minLat": 19.01565392294844,
     "maxLat": 19.055438206030175,
     "minLng": 73.04345714008133,
@@ -906,6 +1019,7 @@
   {
     "name": "Vadavali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vadavali.json",
+    "file": "Vadavali.json",
     "minLat": 18.940526040976067,
     "maxLat": 18.95935172214873,
     "minLng": 73.1049907542246,
@@ -914,6 +1028,7 @@
   {
     "name": "Kalhe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kalhe.json",
+    "file": "Kalhe.json",
     "minLat": 18.871382238599665,
     "maxLat": 18.90139092881734,
     "minLng": 73.0768720982067,
@@ -922,6 +1037,7 @@
   {
     "name": "Barwai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Barwai.json",
+    "file": "Barwai.json",
     "minLat": 18.906853586997233,
     "maxLat": 18.934686575543598,
     "minLng": 73.19070374934886,
@@ -930,6 +1046,7 @@
   {
     "name": "Chinchavan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavan.json",
+    "file": "Chinchavan.json",
     "minLat": 18.89473054189438,
     "maxLat": 18.927832257090138,
     "minLng": 73.09920875894893,
@@ -938,6 +1055,7 @@
   {
     "name": "Karnala",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karnala.json",
+    "file": "Karnala.json",
     "minLat": 18.841530376568628,
     "maxLat": 18.875106040019524,
     "minLng": 73.09136308101458,
@@ -946,6 +1064,7 @@
   {
     "name": "Devichapada",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Devichapada.json",
+    "file": "Devichapada.json",
     "minLat": 19.064294545625017,
     "maxLat": 19.075061456022777,
     "minLng": 73.13479131639065,
@@ -954,6 +1073,7 @@
   {
     "name": "Vaveghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vaveghar.json",
+    "file": "Vaveghar.json",
     "minLat": 18.881815417833007,
     "maxLat": 18.89091448971419,
     "minLng": 73.158173691184,
@@ -962,6 +1082,7 @@
   {
     "name": "Bhokarpada",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhokarpada.json",
+    "file": "Bhokarpada.json",
     "minLat": 18.90664837204596,
     "maxLat": 18.923843138822665,
     "minLng": 73.19246855045095,
@@ -970,6 +1091,7 @@
   {
     "name": "Nanoshi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nanoshi.json",
+    "file": "Nanoshi.json",
     "minLat": 18.91635621423771,
     "maxLat": 18.943668071932443,
     "minLng": 73.06743140353488,
@@ -978,6 +1100,7 @@
   {
     "name": "Shivkar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shivkar.json",
+    "file": "Shivkar.json",
     "minLat": 18.975804977002277,
     "maxLat": 18.995166082044673,
     "minLng": 73.14263271730843,
@@ -986,6 +1109,7 @@
   {
     "name": "Pisarve",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pisarve.json",
+    "file": "Pisarve.json",
     "minLat": 19.084076538487576,
     "maxLat": 19.101321526054196,
     "minLng": 73.08141366936049,
@@ -994,6 +1118,7 @@
   {
     "name": "Savale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Savale.json",
+    "file": "Savale.json",
     "minLat": 18.898579404490913,
     "maxLat": 18.918963453324206,
     "minLng": 73.15526543847265,
@@ -1002,6 +1127,7 @@
   {
     "name": "Khairwadi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khairwadi.json",
+    "file": "Khairwadi.json",
     "minLat": 19.049113233650385,
     "maxLat": 19.072743494865016,
     "minLng": 73.19231383806866,
@@ -1010,6 +1136,7 @@
   {
     "name": "Vadghar (CT)",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vadghar (CT).json",
+    "file": "Vadghar (CT).json",
     "minLat": 18.972120767219312,
     "maxLat": 18.999562970494875,
     "minLng": 73.08536503234288,
@@ -1018,6 +1145,7 @@
   {
     "name": "Kevale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kevale.json",
+    "file": "Kevale.json",
     "minLat": 19.018994957702724,
     "maxLat": 19.044210106621755,
     "minLng": 73.14686020576546,
@@ -1026,6 +1154,7 @@
   {
     "name": "Karambeli Tarf Taloje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karambeli Tarf Taloje.json",
+    "file": "Karambeli Tarf Taloje.json",
     "minLat": 19.061906318409207,
     "maxLat": 19.099247002672875,
     "minLng": 73.19742621114227,
@@ -1034,6 +1163,7 @@
   {
     "name": "Palaspe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palaspe.json",
+    "file": "Palaspe.json",
     "minLat": 18.94478315456055,
     "maxLat": 18.96563542581174,
     "minLng": 73.1260834005547,
@@ -1042,6 +1172,7 @@
   {
     "name": "Valap",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Valap.json",
+    "file": "Valap.json",
     "minLat": 19.052791782495035,
     "maxLat": 19.06413966585726,
     "minLng": 73.12449897388518,
@@ -1050,6 +1181,7 @@
   {
     "name": "Shivansai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shivansai.json",
+    "file": "Shivansai.json",
     "minLat": 19.02618730373108,
     "maxLat": 19.03529470436217,
     "minLng": 73.19922323103789,
@@ -1058,6 +1190,7 @@
   {
     "name": "Chikhale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chikhale.json",
+    "file": "Chikhale.json",
     "minLat": 18.966704378551206,
     "maxLat": 18.98284689584067,
     "minLng": 73.13957381815595,
@@ -1066,6 +1199,7 @@
   {
     "name": "Koyana Velhe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Koyana Velhe.json",
+    "file": "Koyana Velhe.json",
     "minLat": 19.07383611264824,
     "maxLat": 19.08624969011751,
     "minLng": 73.10600735337081,
@@ -1074,6 +1208,7 @@
   {
     "name": "Kasar Bhat",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasar Bhat.json",
+    "file": "Kasar Bhat.json",
     "minLat": 18.833215941850924,
     "maxLat": 18.84323513064408,
     "minLng": 73.08203310540345,
@@ -1082,6 +1217,7 @@
   {
     "name": "Ladiwali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ladiwali.json",
+    "file": "Ladiwali.json",
     "minLat": 18.855615767239367,
     "maxLat": 18.873927297194246,
     "minLng": 73.14299177744347,
@@ -1090,6 +1226,7 @@
   {
     "name": "Kasap",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kasap.json",
+    "file": "Kasap.json",
     "minLat": 18.86268226029566,
     "maxLat": 18.87368386593694,
     "minLng": 73.1553221005631,
@@ -1098,6 +1235,7 @@
   {
     "name": "Pargaon Dungi",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pargaon Dungi.json",
+    "file": "Pargaon Dungi.json",
     "minLat": 18.975166869281033,
     "maxLat": 19.004912717716824,
     "minLng": 73.059128086447,
@@ -1106,6 +1244,7 @@
   {
     "name": "Mahodar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Mahodar.json",
+    "file": "Mahodar.json",
     "minLat": 19.073717690691893,
     "maxLat": 19.107877630707833,
     "minLng": 73.15371138451731,
@@ -1114,6 +1253,7 @@
   {
     "name": "Adai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Adai.json",
+    "file": "Adai.json",
     "minLat": 19.00279525997573,
     "maxLat": 19.02590429980694,
     "minLng": 73.1215884588369,
@@ -1122,6 +1262,7 @@
   {
     "name": "Chirvat",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chirvat.json",
+    "file": "Chirvat.json",
     "minLat": 18.932337059303602,
     "maxLat": 18.94114583392858,
     "minLng": 73.11600862746043,
@@ -1130,6 +1271,7 @@
   {
     "name": "Patnoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Patnoli.json",
+    "file": "Patnoli.json",
     "minLat": 18.93544039401972,
     "maxLat": 18.95300078235859,
     "minLng": 73.07200886214768,
@@ -1138,6 +1280,7 @@
   {
     "name": "Usarli Kh",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Usarli Kh.json",
+    "file": "Usarli Kh.json",
     "minLat": 18.972793717310463,
     "maxLat": 18.984514533069408,
     "minLng": 73.13164548220448,
@@ -1146,6 +1289,7 @@
   {
     "name": "Dapiwali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dapiwali.json",
+    "file": "Dapiwali.json",
     "minLat": 18.886996455757725,
     "maxLat": 18.901734792492526,
     "minLng": 73.1607764818143,
@@ -1154,6 +1298,7 @@
   {
     "name": "Shirdhon",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shirdhon.json",
+    "file": "Shirdhon.json",
     "minLat": 18.89473054189438,
     "maxLat": 18.947705027879195,
     "minLng": 73.11983785603024,
@@ -1162,6 +1307,7 @@
   {
     "name": "Shedung",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Shedung.json",
+    "file": "Shedung.json",
     "minLat": 18.93970477294201,
     "maxLat": 18.959517479204255,
     "minLng": 73.16955217243975,
@@ -1170,6 +1316,7 @@
   {
     "name": "Taloje Majkur",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Taloje Majkur.json",
+    "file": "Taloje Majkur.json",
     "minLat": 19.075042416569822,
     "maxLat": 19.10073309569867,
     "minLng": 73.09438522788068,
@@ -1178,6 +1325,7 @@
   {
     "name": "Bhatan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bhatan.json",
+    "file": "Bhatan.json",
     "minLat": 18.91759867897326,
     "maxLat": 18.937691889328494,
     "minLng": 73.15041594170847,
@@ -1186,6 +1334,7 @@
   {
     "name": "Dhodani",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhodani.json",
+    "file": "Dhodani.json",
     "minLat": 18.99052286621397,
     "maxLat": 19.028454799835842,
     "minLng": 73.23997616926452,
@@ -1194,6 +1343,7 @@
   {
     "name": "Khanavale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Khanavale.json",
+    "file": "Khanavale.json",
     "minLat": 18.929732566078222,
     "maxLat": 18.943552041902333,
     "minLng": 73.17429649036688,
@@ -1202,6 +1352,7 @@
   {
     "name": "Kamothe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kamothe.json",
+    "file": "Kamothe.json",
     "minLat": 19.00510428676131,
     "maxLat": 19.018986218732458,
     "minLng": 73.06022924819959,
@@ -1210,6 +1361,7 @@
   {
     "name": "Apte",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Apte.json",
+    "file": "Apte.json",
     "minLat": 18.844340079186832,
     "maxLat": 18.89473054189438,
     "minLng": 73.11601970239693,
@@ -1218,6 +1370,7 @@
   {
     "name": "CREEK",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/CREEK.json",
+    "file": "CREEK.json",
     "minLat": 18.93843246336644,
     "maxLat": 18.95983631057693,
     "minLng": 72.97858996692091,
@@ -1226,6 +1379,7 @@
   {
     "name": "Dighati",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dighati.json",
+    "file": "Dighati.json",
     "minLat": 18.82588281773257,
     "maxLat": 18.850643839909498,
     "minLng": 73.0439957835824,
@@ -1234,6 +1388,7 @@
   {
     "name": "Narpoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Narpoli.json",
+    "file": "Narpoli.json",
     "minLat": 18.91606617354417,
     "maxLat": 18.927816663703783,
     "minLng": 73.14238991509052,
@@ -1242,6 +1397,7 @@
   {
     "name": "Harigram",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Harigram.json",
+    "file": "Harigram.json",
     "minLat": 19.00432889797293,
     "maxLat": 19.037563331407586,
     "minLng": 73.13678495857702,
@@ -1250,6 +1406,7 @@
   {
     "name": "Wajapur",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wajapur.json",
+    "file": "Wajapur.json",
     "minLat": 18.975745846144928,
     "maxLat": 19.014290336504295,
     "minLng": 73.20044543976287,
@@ -1258,6 +1415,7 @@
   {
     "name": "Gavhan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gavhan.json",
+    "file": "Gavhan.json",
     "minLat": 18.923097319739018,
     "maxLat": 18.98511294027349,
     "minLng": 72.99888593560803,
@@ -1266,6 +1424,7 @@
   {
     "name": "Bherle",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bherle.json",
+    "file": "Bherle.json",
     "minLat": 18.9511629582988,
     "maxLat": 18.968679521982246,
     "minLng": 73.17672336582763,
@@ -1274,6 +1433,7 @@
   {
     "name": "Dahivali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dahivali.json",
+    "file": "Dahivali.json",
     "minLat": 18.918271151971418,
     "maxLat": 18.932365825373004,
     "minLng": 73.14078431830251,
@@ -1282,6 +1442,7 @@
   {
     "name": "Madbhuvan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Madbhuvan.json",
+    "file": "Madbhuvan.json",
     "minLat": 18.825485199043026,
     "maxLat": 18.849743049549083,
     "minLng": 73.11875113273118,
@@ -1290,6 +1451,7 @@
   {
     "name": "Kaliwali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kaliwali.json",
+    "file": "Kaliwali.json",
     "minLat": 18.82645366073252,
     "maxLat": 18.85685712045447,
     "minLng": 73.14085487943255,
@@ -1298,6 +1460,7 @@
   {
     "name": "Vavanje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vavanje.json",
+    "file": "Vavanje.json",
     "minLat": 19.07741611816477,
     "maxLat": 19.109414885662957,
     "minLng": 73.14002071789085,
@@ -1306,6 +1469,7 @@
   {
     "name": "Wahal",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Wahal.json",
+    "file": "Wahal.json",
     "minLat": 18.942839035312964,
     "maxLat": 18.992108836688306,
     "minLng": 73.01687465137474,
@@ -1314,6 +1478,7 @@
   {
     "name": "Vichumbe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Vichumbe.json",
+    "file": "Vichumbe.json",
     "minLat": 18.981769584855147,
     "maxLat": 18.991482550673563,
     "minLng": 73.12670860385978,
@@ -1322,6 +1487,7 @@
   {
     "name": "Chindharan",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chindharan.json",
+    "file": "Chindharan.json",
     "minLat": 19.047691700826743,
     "maxLat": 19.07577431369135,
     "minLng": 73.14750297819604,
@@ -1330,6 +1496,7 @@
   {
     "name": "Dhamani",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhamani.json",
+    "file": "Dhamani.json",
     "minLat": 19.027028279785448,
     "maxLat": 19.052230795602807,
     "minLng": 73.21870017262094,
@@ -1338,6 +1505,7 @@
   {
     "name": "Dhansar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dhansar.json",
+    "file": "Dhansar.json",
     "minLat": 19.09879882941646,
     "maxLat": 19.11485466807898,
     "minLng": 73.0680215815076,
@@ -1346,6 +1514,7 @@
   {
     "name": "Ritghar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ritghar.json",
+    "file": "Ritghar.json",
     "minLat": 19.037039505904442,
     "maxLat": 19.050482808785958,
     "minLng": 73.18441776630243,
@@ -1354,6 +1523,7 @@
   {
     "name": "Pali Kh",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pali Kh.json",
+    "file": "Pali Kh.json",
     "minLat": 18.977688025954347,
     "maxLat": 18.990365769770627,
     "minLng": 73.17153057146591,
@@ -1362,6 +1532,7 @@
   {
     "name": "Taloje Panchnad",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Taloje Panchnad.json",
+    "file": "Taloje Panchnad.json",
     "minLat": 19.037492332792354,
     "maxLat": 19.08620310789072,
     "minLng": 73.07610388126704,
@@ -1370,6 +1541,7 @@
   {
     "name": "Dundre",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dundre.json",
+    "file": "Dundre.json",
     "minLat": 19.03210527024183,
     "maxLat": 19.05056271106148,
     "minLng": 73.19687250442186,
@@ -1378,6 +1550,7 @@
   {
     "name": "Usarli Bk.",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Usarli Bk..json",
+    "file": "Usarli Bk..json",
     "minLat": 19.029573562066844,
     "maxLat": 19.043434909042144,
     "minLng": 73.18429570989998,
@@ -1386,6 +1559,7 @@
   {
     "name": "Pargaon",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Pargaon.json",
+    "file": "Pargaon.json",
     "minLat": 18.97540858363287,
     "maxLat": 18.992710019435748,
     "minLng": 73.0715571851732,
@@ -1394,6 +1568,7 @@
   {
     "name": "Nitale",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Nitale.json",
+    "file": "Nitale.json",
     "minLat": 19.09482806468676,
     "maxLat": 19.127164518670362,
     "minLng": 73.137176374656,
@@ -1402,6 +1577,7 @@
   {
     "name": "Akurli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Akurli.json",
+    "file": "Akurli.json",
     "minLat": 18.99570936946607,
     "maxLat": 19.014906773849706,
     "minLng": 73.13050069554892,
@@ -1410,6 +1586,7 @@
   {
     "name": "Gadhe",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gadhe.json",
+    "file": "Gadhe.json",
     "minLat": 19.0129438209481,
     "maxLat": 19.030802521564457,
     "minLng": 73.20936484281027,
@@ -1418,6 +1595,7 @@
   {
     "name": "Karanjade",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Karanjade.json",
+    "file": "Karanjade.json",
     "minLat": 18.959130899689473,
     "maxLat": 18.983871088423513,
     "minLng": 73.09094869490369,
@@ -1426,6 +1604,7 @@
   {
     "name": "Gherakilla Manikgad",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Gherakilla Manikgad.json",
+    "file": "Gherakilla Manikgad.json",
     "minLat": 18.80362703455706,
     "maxLat": 18.84337565293387,
     "minLng": 73.17700496399263,
@@ -1434,6 +1613,7 @@
   {
     "name": "Kanpoli",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Kanpoli.json",
+    "file": "Kanpoli.json",
     "minLat": 19.058213094920433,
     "maxLat": 19.068096247400344,
     "minLng": 73.13563907901501,
@@ -1442,6 +1622,7 @@
   {
     "name": "Dharnacamp",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Dharnacamp.json",
+    "file": "Dharnacamp.json",
     "minLat": 19.093669612379983,
     "maxLat": 19.105299022857835,
     "minLng": 73.07483872725757,
@@ -1450,6 +1631,7 @@
   {
     "name": "Bonshet",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bonshet.json",
+    "file": "Bonshet.json",
     "minLat": 18.997862952495538,
     "maxLat": 19.002564244246503,
     "minLng": 73.15286645200514,
@@ -1458,6 +1640,7 @@
   {
     "name": "Chinchavali Tarf Waje",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Chinchavali Tarf Waje.json",
+    "file": "Chinchavali Tarf Waje.json",
     "minLat": 19.028182296136958,
     "maxLat": 19.048533849823954,
     "minLng": 73.17428004778091,
@@ -1466,6 +1649,7 @@
   {
     "name": "Palekhurd",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Palekhurd.json",
+    "file": "Palekhurd.json",
     "minLat": 19.066176662162803,
     "maxLat": 19.079898746559543,
     "minLng": 73.14274208519387,
@@ -1474,6 +1658,7 @@
   {
     "name": "Tamsai",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Tamsai.json",
+    "file": "Tamsai.json",
     "minLat": 19.036660017753213,
     "maxLat": 19.069986824709222,
     "minLng": 73.2125836356595,
@@ -1482,6 +1667,7 @@
   {
     "name": "Sonkhar",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Sonkhar.json",
+    "file": "Sonkhar.json",
     "minLat": 18.97228772017222,
     "maxLat": 18.98262554392362,
     "minLng": 73.03322549639563,
@@ -1490,6 +1676,7 @@
   {
     "name": "Bid",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Bid.json",
+    "file": "Bid.json",
     "minLat": 19.081853049096907,
     "maxLat": 19.091930869233963,
     "minLng": 73.05992402906894,
@@ -1498,6 +1685,7 @@
   {
     "name": "Ariwali",
     "url": "https://raw.githubusercontent.com/rajnarayanpai/panvel-geojson/master/Ariwali.json",
+    "file": "Ariwali.json",
     "minLat": 18.947280805584285,
     "maxLat": 18.96146686644152,
     "minLng": 73.14430550445086,
